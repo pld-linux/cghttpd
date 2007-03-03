@@ -2,7 +2,7 @@ Summary:	cghttpd
 Name:		cghttpd
 Version:	0.26
 Release:	0.1
-License:	GPL
+License:	GPL v2+
 Group:		Applications
 Source0:	http://www.xmailserver.org/%{name}-%{version}.tar.gz
 # Source0-md5:	62a1ae4ecd938954fa86c94e0edaef33
