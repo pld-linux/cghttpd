@@ -1,4 +1,5 @@
-Summary:	cghttpd
+Summary:	cghttpd - Coronet and Guasi based trivial Web server
+Summary(pl.UTF-8):	cghttpd - trywialny serwer WWW oparty bibliotekach Coronet i Guasi
 Name:		cghttpd
 Version:	0.26
 Release:	0.1
@@ -23,6 +24,14 @@ such a solution.
 
 It is by far not a complete Web server, nor a server that you want to
 expose to a public network.
+
+%description -l pl.UTF-8
+Pakiet cghttpd to trywialny serwer WWW oparty na bibliotekach Coronet
+i Guasi, stworzony w celu sprawdzenia stopnia wydajności, jaki można
+osiągnąć przy takim rozwiązaniu.
+
+Daleko mu do pełnego serwera WWW czy serwera który chciałoby się
+wystawić publicznie.
 
 %prep
 %setup -q
